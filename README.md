@@ -1,5 +1,5 @@
-# SS-or-ipv6_host
-
+# Shadowsocks-or-Hosts
+## 影梭和Hosts的科学上网
 ----------
 - IPV6
 	1. If the network supports IPv6, we usually use IPv6 for access to Google and YouTube(如果网络支持IPv6，我们通常使用IPv6访问Google和YouTube。)
