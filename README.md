@@ -18,6 +18,13 @@
 - 科学上网自建教程
 	1. 以下为自己搭建SS/SSR或v2ray服务器教程,以下两个Github项目操作均适合新手。
 
-	 	[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+	 	####[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
-	 	[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
+	 	####[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
+	2. VPS推荐：
+
+		####Vultr 	
+		*知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。不怕被封ip，因为vultr是折算成小时计费，且可以随时删除和开通服务器，新服务器就是新的ip。*
+		####Linode
+		*inode是一家美国的VPS主机托管商，成立于2003年。最低配的方案为1G内存，20G SSD硬盘，价格为$5/月。实际上，它是按照小时收费的，每小时的价格为$0.075，如果你用满一整个月，那么最多只需要支付$5，但大部分的月份都低于$5。*
+
