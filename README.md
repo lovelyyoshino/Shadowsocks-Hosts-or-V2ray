@@ -27,7 +27,7 @@
 ----------
 
 - ### 科学上网自建教程
-	#### 1. 以下为自己搭建SS/SSR或v2ray服务器教程,以下两个Github项目操作均适合新手。
+	#### 1. 以下为自己搭建SS/SSR或v2ray服务器教程（以下两个Github项目操作均适合新手）：
 
 	##### [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
@@ -46,3 +46,5 @@
 	##### [樱花VPS](https://vps.sakura.ad.jp/)
 	![](https://i.imgur.com/fEt0pfL.png)
 	*樱花VPS是日本著名的IDC，口碑极好，在日本的排名甚至超过了Linode，樱花家的VPS是KVM架构的，特点是大硬盘、大带宽、无限流量、稳定和低价。在石守、东京、大阪有数据中心*
+	#### SSR客户端下载：
+	####*第一次电脑系统使用SSR/SS客户端时，如果提示你需要安装NET Framework 4.0，有的电脑系统可能会自带NET Framework 4.0。*
