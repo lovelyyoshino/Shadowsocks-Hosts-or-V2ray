@@ -52,4 +52,6 @@
 	##### Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)
 	##### MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 	##### Linux客户端 [安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr) 或者[图形界面的ssr客户端](https://github.com/erguotou520/electron-ssr/releases)
+	##### 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
+	##### 苹果手机SSR客户端：[Potatso Lite](https://bbs.feng.com/read-htm-tid-11369365.html)、[shadowrocket](https://www.hinwen.com/3662.html)都可以作为SSR客户端
 	
