@@ -60,3 +60,5 @@
 	*[gfw-breaker账户新建的SS/SSR 账号](https://github.com/gfw-breaker/ssr-accounts/blob/master/README.md)，如果SS服务器遭到GFW封锁, 届时将重建服务器并更新账号信息*
 
 	*[Alvin9999单个用户速度至140kb/s的影梭账户](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)，但禁止使用账号进行BT下载、发送垃圾邮件*
+
+	*[BiulinkYoutube 1080p无压力版本](https://github.com/Biulink/ShadowsocksTutorials)，独享一台Shadowsocks服务器，不与其他用户共享资源，但是每日账户流量固定*
