@@ -84,4 +84,5 @@
 
 	###### **[ishadowx](https://get.ishadowx.net/)存活时间很久了，缺点在于时常变动账户密码，速度一般**
 
-	###### **[google+：shadowsocks免费帐号 ](https://plus.google.com/communities/104092405342699579599/stream/8a593591-2091-4096-bb00-7d9c5659db93)长时间有人活跃在当中提供优质的账户**
+	###### **[google+：Shadowsocks免费帐号 ](https://plus.google.com/communities/104092405342699579599/stream/8a593591-2091-4096-bb00-7d9c5659db93)长时间有人活跃在当中提供优质的账户**
+	###### **[google+：ShadowSocks公益信息交流 ](https://plus.google.com/communities/117702818760720009772/stream/47c69db4-9362-4d91-a017-97f3be948437)长时间有人活跃在当中提供优质的账户**
