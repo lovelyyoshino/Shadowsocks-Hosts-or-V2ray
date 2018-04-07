@@ -81,7 +81,9 @@
 
 	###### **[BiulinkYoutube 1080p无压力版本](https://github.com/Biulink/ShadowsocksTutorials)，独享一台Shadowsocks服务器，不与其他用户共享资源，但是每日账户流量固定,[biulink](https://pro.biulink.xyz/home/index)注册，可以直接获取一周的免费Shadowsocks账号**
 
-	###### **[VonSdite Bat文件快捷使用](https://github.com/VonSdite/Auto_Shadowsocks)，密码每6小时会更换(0点, 6点, 12点, 18点)并重启服务器,**
+	###### **[VonSdite Bat文件快捷使用](https://github.com/max2max/freess)，密码每6小时会更换(0点, 6点, 12点, 18点)并重启服务器,**
+
+	###### **[max2max 自建](https://github.com/VonSdite/Auto_Shadowsocks)，密码每6小时会更换(0点, 6点, 12点, 18点)并重启服务器,**
 
 	#### 2. 其他网站上面存在的Shadowsocks账号
 
@@ -94,3 +96,9 @@
 	###### **[google+：ShadowSocks公益信息交流 ](https://plus.google.com/communities/117702818760720009772/stream/47c69db4-9362-4d91-a017-97f3be948437)长时间有人活跃在当中提供优质的账户**
 
 	###### **[google+：Shadowsocks俱乐部 ](https://plus.google.com/communities/107859708371989171939)长时间有人活跃在当中提供优质的账户**
+
+	###### **[影之空间免费加速 ](http://yzkj-sc.tk/)3小时更换一次，频率较高，并为防止滥用已屏蔽大部分非法网站和视频网站**
+
+	###### **[Telegram交流群](https://t.me/hissrxyz)需要加入Telegram交流群**
+
+	###### **[ssr订阅链接](https://raw.githubusercontent.com/max2max/freess/master/freenode.txt)**
