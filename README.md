@@ -83,3 +83,5 @@
 	#### 2. 其他网站上面存在的Shadowsocks账号
 
 	###### **[ishadowx](https://get.ishadowx.net/)存活时间很久了，缺点在于时常变动账户密码，速度一般**
+
+	###### **[google+](https://plus.google.com/communities/104092405342699579599/stream/8a593591-2091-4096-bb00-7d9c5659db93)长时间有人活跃在当中提供优质的账户**
