@@ -56,4 +56,7 @@
 	##### 苹果手机SSR客户端：[Potatso Lite](https://bbs.feng.com/read-htm-tid-11369365.html)、[shadowrocket](https://www.hinwen.com/3662.html)都可以作为SSR客户端
 
 - ### 公开Shadowsocks科学上网账号
-	
+	#### 1. Github上面存在的Shadowsocks账号
+	*[gfw-breaker账户新建的SS/SSR 账号](https://github.com/gfw-breaker/ssr-accounts/blob/master/README.md)，如果SS服务器遭到GFW封锁, 届时将重建服务器并更新账号信息*
+
+	*[Alvin9999单个用户速度至140kb/s的影梭账户](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)，但禁止使用账号进行BT下载、发送垃圾邮件*
