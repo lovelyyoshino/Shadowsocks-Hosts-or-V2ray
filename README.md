@@ -32,7 +32,7 @@
 	##### [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 	##### [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
-	### 2. VPS推荐：
+	#### 2. VPS推荐：
 
 	##### [Vultr](https://www.vultr.com/) 	
 	![](https://i.imgur.com/RLLJ9M0.jpg)
@@ -54,4 +54,6 @@
 	##### Linux客户端 [安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr) 或者[图形界面的ssr客户端](https://github.com/erguotou520/electron-ssr/releases)
 	##### 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
 	##### 苹果手机SSR客户端：[Potatso Lite](https://bbs.feng.com/read-htm-tid-11369365.html)、[shadowrocket](https://www.hinwen.com/3662.html)都可以作为SSR客户端
+
+- ### 公开Shadowsocks科学上网账号
 	
