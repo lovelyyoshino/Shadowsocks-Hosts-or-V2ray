@@ -15,10 +15,10 @@
 ----------
 ![](https://i.imgur.com/upTVEr3.gif)
 ----------
-[Host](./Hosts(Ipv4-or-Ipv6))
+[Host](https://github.com/lovelyyoshino/Shadowsocks-or-Hosts/wiki/Hosts(Ipv4-or-Ipv6))
 
-[Shadowsocks](./Shadowsocks(影梭))
+[Shadowsocks](https://github.com/lovelyyoshino/Shadowsocks-or-Hosts/wiki/Shadowsocks%EF%BC%88%E5%BD%B1%E6%A2%AD%EF%BC%89)
 
-[Shadowsocks(账户)](./Public账户)
+[Shadowsocks(账户)](https://github.com/lovelyyoshino/Shadowsocks-or-Hosts/wiki/Public%E8%B4%A6%E6%88%B7)
 
-[Shadowsocks客户端](./客户端)
+[Shadowsocks客户端](https://github.com/lovelyyoshino/Shadowsocks-or-Hosts/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF)
