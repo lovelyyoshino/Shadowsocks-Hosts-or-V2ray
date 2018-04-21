@@ -98,7 +98,7 @@
 
 	###### **[ishadowx](https://get.ishadowx.net/)存活时间很久了，缺点在于时常变动账户密码，速度一般**
 
-	###### **[逗比根据地](https://doub.io/sszhfx/)存活时间x相当长了，缺点在于时常变动账户密码，速度很快**
+	###### **[逗比根据地](https://doub.io/sszhfx/)存活时间相当长了，缺点在于时常变动账户密码，速度很快**
 
 	###### **[google+：Shadowsocks免费帐号 ](https://plus.google.com/communities/104092405342699579599/stream/8a593591-2091-4096-bb00-7d9c5659db93)长时间有人活跃在当中提供优质的账户**
 
