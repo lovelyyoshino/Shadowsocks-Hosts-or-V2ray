@@ -112,7 +112,12 @@
 	###### **[Telegram交流群](https://t.me/hissrxyz)需要加入Telegram交流群**
 
 	###### **[ssr订阅链接](https://raw.githubusercontent.com/max2max/freess/master/freenode.txt)**
+#### tip 谷歌镜像网址适合使用google进行简单的搜索、查阅资料。
+###### 谷歌镜像1：https://vvpn.499994.xyz/googlebak.html
 
+###### 谷歌镜像2：http://ac.scmor.com/
+
+###### 谷歌镜像3：https://176.122.157.73:5000 (非原版，原理是提取原版网站的结果，结果和原版一样；具有网络流量耗费小和简洁的特点)
 # Finally
 <table>
   <tbody><tr>
