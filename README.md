@@ -1,4 +1,4 @@
-# Shadowsocks or Hosts
+# Shadowsocks 、 Hosts or V2vay
 # ---- 影梭和Hosts的科学上网
 ###### 希望大家继续补充
 
@@ -169,6 +169,6 @@
   ##### ![](https://www.i5seo.com/wp-content/uploads/2018/04/2018042601531031.png)
   ##### *双击 V2RayN.exe 启动，然后在任务栏托盘找到 V2RayN 图标并双击它 添加 VMess 服务器*
   #### 免费v2ray
-	###### **[v2ray cat]（https://v2ray.cat）
-	###### **[Telegram]（https://t.me/V2ray_FREE）
+	###### **[v2ray cat](https://v2ray.cat)
+	###### **[Telegram](https://t.me/V2ray_FREE)
    
