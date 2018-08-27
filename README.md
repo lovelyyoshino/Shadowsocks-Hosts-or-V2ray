@@ -156,6 +156,6 @@
 ----------
 
 - ### 科学上网自建教程
-#### 1. 以下为自己搭建SS/SSR或v2ray服务器教程（以下两个Github项目操作均适合新手）：
+#### 1. 以下为下载V2ray服务端教程：
 
 ##### [下载 V2Ray（通道一）](https://v2ray.com/download)、[下载 V2Ray（通道二）](https://github.com/v2ray/v2ray-core/releases/latest)
