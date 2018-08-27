@@ -158,4 +158,10 @@
 - ### 科学上网自建教程
 #### 1. 以下为下载V2ray服务端教程：
 
-##### [下载 V2Ray（通道一）](https://v2ray.com/download)、[下载 V2Ray（通道二）](https://github.com/v2ray/v2ray-core/releases/latest)
+##### [下载 V2Ray（通道一）](https://v2ray.com/download)、[下载 V2Ray（通道二）](https://github.com/v2ray/v2ray-core/releases/latest)、[V2RayN](https://github.com/2dust/v2rayN/releases/latest)
+##### **下载 V2Ray（国内快速下载）**
+##### [v2rayN.zip](https://www.i5seo.com/2/v2rayN.zip)
+
+[v2ray-windows-64.zip](https://www.i5seo.com/2/v2ray-windows-64.zip)
+
+[v2ray-windows-32.zip](https://www.i5seo.com/2/v2ray-windows-32.zip)
