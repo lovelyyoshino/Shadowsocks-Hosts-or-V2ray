@@ -162,6 +162,9 @@
 ##### **下载 V2Ray（国内快速下载）**
 ##### [v2rayN.zip](https://www.i5seo.com/2/v2rayN.zip)
 
-[v2ray-windows-64.zip](https://www.i5seo.com/2/v2ray-windows-64.zip)
+##### [v2ray-windows-64.zip](https://www.i5seo.com/2/v2ray-windows-64.zip)
 
-[v2ray-windows-32.zip](https://www.i5seo.com/2/v2ray-windows-32.zip)
+##### [v2ray-windows-32.zip](https://www.i5seo.com/2/v2ray-windows-32.zip)
+##### *选择 v2ray-windows-64.zip下载，如果你的系统是 32 位的那就选择 v2ray-windows-32.zip。下载完成，解压。然后选择 V2RayN.exe 下载将下载完成后的 V2RayN.exe 复制到之前打开的 V2Ray 文件夹目录，如图下：*
+##### ![](https://www.i5seo.com/wp-content/uploads/2018/04/2018042601531031.png)
+##### *双击 V2RayN.exe 启动，然后在任务栏托盘找到 V2RayN 图标并双击它 添加一个 VMess 服务器：*
