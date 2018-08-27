@@ -1,4 +1,4 @@
-# Shadowsocks 、 Hosts or V2vay
+# Shadowsocks 、 Hosts or V2ray
 # ---- 影梭和Hosts的科学上网
 ###### 希望大家继续补充
 
