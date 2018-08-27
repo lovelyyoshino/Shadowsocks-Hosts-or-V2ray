@@ -150,3 +150,12 @@
     <td>iOS</td><td><a href="https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6" target="_blank">只有中国 App Store 帐号</a>, <a href="https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help" target="_blank">美区 App Store</a> </td><td>只有中国区 App Store的话会麻烦一些</td>
   </tr>
 </tbody></table>
+
+## V2ray科学上网
+
+----------
+
+- ### 科学上网自建教程
+#### 1. 以下为自己搭建SS/SSR或v2ray服务器教程（以下两个Github项目操作均适合新手）：
+
+##### [下载 V2Ray（通道一）](https://v2ray.com/download)、[下载 V2Ray（通道二）](https://github.com/v2ray/v2ray-core/releases/latest)
