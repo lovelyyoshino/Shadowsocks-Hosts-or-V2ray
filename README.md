@@ -68,7 +68,7 @@
 	##### [樱花VPS](https://vps.sakura.ad.jp/)
 	![](https://i.imgur.com/fEt0pfL.png)
 	*樱花VPS是日本著名的IDC，口碑极好，在日本的排名甚至超过了Linode，樱花家的VPS是KVM架构的，特点是大硬盘、大带宽、无限流量、稳定和低价。在石守、东京、大阪有数据中心*
-	##### [樱花VPS](https://billing.virmach.com/cart.php)
+	##### [virmach](https://billing.virmach.com/cart.php)
 	![]()
 	*virmach适合那些想要买个稳定、靠谱的小型便宜VPS做个代理，不想花太多钱，并且希望有比较多可选择的机房*
 	
