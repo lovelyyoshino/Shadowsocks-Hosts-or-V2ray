@@ -1,0 +1,345 @@
+# Copyright (c) 2017-2018, googlehosts members.
+# https://github.com/googlehosts/hosts
+# Last updated: 2018-12-05
+
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+# Localhost (DO NOT REMOVE) Start
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# GoogleHosts Start
+2607:fcd0:100:1935::19fe:bd14	204-44-101-36.googlehosts.org
+2607:fcd0:100:1935::19fe:bd14	tg-1.googlehosts.org
+2602:fe90:1:1::8f2a:341f	185-200-34-198.googlehosts.org
+2602:fe90:1:1::8f2a:341f	185-200-34-209.googlehosts.org
+2602:fe90:1:1::8f2a:341f	tg-2.googlehosts.org
+2602:fe90:1:1::8f2a:341f	tg-4.googlehosts.org
+2402:9e80:0:1000::1:d3b6	45-124-64-82.googlehosts.org
+2402:9e80:0:1000::1:d3b6	tg-6.googlehosts.org
+2400:84c0:2102:0003:0000:0000:1aec:701d	172-86-72-19.googlehosts.org
+2400:84c0:2102:0003:0000:0000:1aec:701d	tg-7.googlehosts.org
+2a06:8ec0:3::1:59cb	185-122-58-249.googlehosts.org
+2a06:8ec0:3::1:59cb	tg-8.googlehosts.org
+2a06:82c2:0:1272::1	103-105-48-234.googlehosts.org
+2a06:82c2:0:1272::1	tg-9.googlehosts.org
+2607:fcd0:100:1926::8152:9bab	23-226-136-24.googlehosts.org
+2607:fcd0:100:1926::8152:9bab	ss-1.googlehosts.org
+2607:fcd0:100:e50f::8706:7e6	107-150-12-229.googlehosts.org
+2607:fcd0:100:1928::1c21:2b4d	104-129-16-244.googlehosts.org
+2607:fcd0:100:1926::c28d:6e0d	23-226-136-132.googlehosts.org
+2607:fcd0:100:e50f::651c:85c	104-223-60-17.googlehosts.org
+2607:fcd0:100:e50f::651c:85c	ss-2.googlehosts.org
+2607:fcd0:100:e50f::fe23:8346	66-154-108-62.googlehosts.org
+2607:fcd0:100:1926::f69e:8063	23-226-136-216.googlehosts.org
+2607:fcd0:100:1926::f69e:8063	ss-3.googlehosts.org
+2607:fcd0:100:1912::d8cb:1617	155-94-137-77.googlehosts.org
+2a00:b700::2:36a	185-22-152-42.googlehosts.org
+# GoogleHosts End
+
+# Akamai Start
+2a02:26f0:e8::6856:6e4b	static.ak.instagram.com
+2a02:26f0:e8::6856:6ec3	images.ak.instagram.com
+2a02:26f0:a1:2a2::1931	s.pinimg.com
+2a04:4e42:4::84	i.pinimg.com
+2a02:26f0:7b:383::1931	s-media-cache-ak0.pinimg.com
+2a02:26f0:7b:39b::1931	passets-cdn.pinterest.com
+# Akamai End
+
+# Android Start
+2a00:1450:4010:c09::64	a.android.com
+2a00:1450:4010:c09::64	b.android.com
+2a00:1450:4010:c09::64	m.android.com
+2a00:1450:4010:c09::64	connectivitycheck.android.com
+2a00:1450:4010:c09::64	d.android.com
+2a00:1450:4010:c09::64	dev.android.com
+2a00:1450:4010:c09::64	market.android.com
+2a00:1450:4010:c09::64	r.android.com
+2a00:1450:4010:c03::68	android.com
+2a00:1450:4010:c03::6a	developer.android.com
+# Android End
+
+# Apkmirror Start
+2400:cb00:2048:1::6813:843a	www.apkmirror.com
+# Apkmirror End
+
+# Appspot Start
+2a00:1450:4001:816::2011	www.appspot.com
+2a00:1450:4001:816::2011	appspot.com
+2a00:1450:4001:816::2011	events.withgoogle.com
+2a00:1450:4001:816::2011	summerofcode.withgoogle.com
+2a00:1450:4001:816::2011	foobar.withgoogle.com
+2a00:1450:4001:816::2011	interstellar.withgoogle.com
+2a00:1450:4001:816::2011	edudirectory.withgoogle.com
+2a00:1450:4001:816::2011	atmosphere.withgoogle.com
+2a00:1450:4001:816::2011	accelerate.withgoogle.com
+2a00:1450:4001:816::2011	insgruene.withgoogle.com
+2a00:1450:4001:816::2011	atmospheretokyo.withgoogle.com
+2a00:1450:4001:816::2011	connectedclassrooms.withgoogle.com
+2a00:1450:4001:816::2011	smartypins.withgoogle.com
+2a00:1450:4001:816::2011	streetart.withgoogle.com
+2a00:1450:4001:816::2011	cardboard.withgoogle.com
+2a00:1450:4001:816::2011	kickwithchrome.withgoogle.com
+2a00:1450:4001:816::2011	candidatos.withgoogle.com
+2a00:1450:4001:816::2011	trendstw.withgoogle.com
+2a00:1450:4001:816::2011	impactchallenge.withgoogle.com
+2a00:1450:4001:816::2011	eduproducts.withgoogle.com
+2a00:1450:4001:816::2011	onetoday.google.com
+2a00:1450:4001:816::2011	withgoogle.com
+2a00:1450:4001:816::2011	www.withgoogle.com
+2a00:1450:4001:816::2011	cloudnext.withgoogle.com
+2a00:1450:4001:816::2011	edutrainingcenter.withgoogle.com
+2a00:1450:4001:816::2011	earthview.withgoogle.com
+2a00:1450:4001:816::2011	lightsaber.withgoogle.com
+2a00:1450:4001:816::2011	britishmuseum.withgoogle.com
+2a00:1450:4001:816::2011	beyondthemap.withgoogle.com
+2a00:1450:4001:816::2011	analyticsacademy.withgoogle.com
+2a00:1450:4001:816::2011	spellup.withgoogle.com
+# Appspot End
+
+# Appspotpreview Start
+2607:f8b0:400d:c0f::99	author-dot-betaspike.appspot.com
+2607:f8b0:400d:c0f::99	jmoore-dot-android-experiments.appspot.com
+2607:f8b0:400d:c0f::99	mission-author-dot-betaspike.appspot.com
+2607:f8b0:400d:c0f::99	drivenotepad.appspot.com
+2607:f8b0:400d:c0f::99	virustotalcloud.appspot.com
+2607:f8b0:400d:c0f::99	joinjoaomgcd.appspot.com
+2607:f8b0:400d:c0f::99	m-dot-betaspike.appspot.com
+2607:f8b0:400d:c0f::99	download-chromium.appspot.com
+2607:f8b0:400d:c0f::99	google-developers.appspot.com
+2607:f8b0:400d:c0f::99	chrometophone.appspot.com
+2607:f8b0:400d:c0f::99	chrome-devtools-frontend.appspot.com
+2607:f8b0:400d:c0f::99	apis-explorer.appspot.com
+2607:f8b0:400d:c0f::99	betaspike.appspot.com
+2607:f8b0:400d:c0f::99	hstspreload.appspot.com
+2607:f8b0:400d:c0f::99	lfe-alpo-gm.appspot.com
+# Appspotpreview End
+
+# Culturalspot Start
+2404:6800:4005:800::200e	embed.culturalspot.org
+# Culturalspot End
+
+# Dropbox Start
+2620:100:6020:2::a27d:4002	db.tt
+2620:100:6020:1::a27d:4001	www.dropbox.com
+2620:100:6020:1::a27d:4001	www.dualstack.dropbox-dns.com
+2620:100:6020:7::a27d:4007	api.dropbox.com
+2620:100:6020:7::a27d:4007	api.dualstack.dropbox-dns.com
+2620:100:6020:7::a27d:4007	api.dropboxapi.com
+2620:100:6020:8::a27d:4008	api-content.dropbox.com
+2620:100:6020:5::a27d:4005	api-content-photos.dropbox.com
+2600:9000:2020:a400:d:7bbe:2740:93a1	blogs.dropbox.com
+2620:100:6020:3::a27d:4003	client.dropbox.com
+2620:100:6020:3::a27d:4003	client-cf.dropbox.com
+2620:100:6020:4::a27d:4004	client-lb.dropbox.com
+2620:100:6020:4::a27d:4004	client-web.dropbox.com
+2620:100:6020:6::a27d:4006	dl.dropbox.com
+2620:100:6020:6::a27d:4006	dl-web.dropbox.com
+2620:100:6032:6::a27d:5206	dl-doc.dropbox.com
+2620:100:6032:2::a27d:5202	m.dropbox.com
+2620:100:6032:1::a27d:5201	photos.dropbox.com
+2620:100:6032:5::a27d:5205	photos-1.dropbox.com
+2620:100:6032:5::a27d:5205	photos-2.dropbox.com
+2620:100:6032:5::a27d:5205	photos-3.dropbox.com
+2620:100:6032:5::a27d:5205	photos-4.dropbox.com
+2620:100:6032:5::a27d:5205	photos-5.dropbox.com
+2620:100:6032:5::a27d:5205	photos-6.dropbox.com
+2620:100:6032:5::a27d:5205	photos-thumb.dropbox.com
+2620:100:6032:6::a27d:5206	dl.dropboxusercontent.com
+2400:cb00:2048:1::6810:631d	cfl.dropboxstatic.com
+2620:100:6020:2::a27d:4002	log.getdropbox.com
+# Dropbox End
+
+# Discord Start
+2400:cb00:2048:1::6810:acbd	discord.media
+# Discord End
+
+# Facebook Start
+2a03:2880:f10a:83:face:b00c::25de	www.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	fb.me
+2a03:2880:f10a:83:face:b00c::25de	facebook.com
+2a03:2880:f10a:83:face:b00c::25de	api.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	apps.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	attachments.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	business.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	bigzipfiles.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	code.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	check4.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	check6.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	connect.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	d.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	developers.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	graph.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	l.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	login.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	m.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	mtouch.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	mqtt.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	mqtt-mini.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	orcart.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	pixel.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	scontent.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	ssl.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	star.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	secure.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	staticxx.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	touch.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	upload.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	vupload.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	vupload2.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	api-read.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	b-api.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	b-graph.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	s-static.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	zh-cn.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	zh-tw.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	0-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	1-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	2-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	3-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	4-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	5-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	6-edge-chat.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	channel-ecmp-05-ash3.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	channel-staging-ecmp-05-ash3.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	channel-testing-ecmp-05-ash3.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	beta-chat-01-05-ash3.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	s-static.ak.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	star.c10r.facebook.com
+2a03:2880:f10a:83:face:b00c::25de	fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	connect.facebook.net
+2a03:2880:f10a:83:face:b00c::25de	ent-a.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	ent-b.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	ent-c.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	ent-d.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	ent-e.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-a.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-b.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-c.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-d.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-e.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-mxp.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-a-lax.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-a-sin.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-b-lax.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	scontent-b-sin.xx.fbcdn.net
+2a03:2880:f10a:83:face:b00c::25de	static.thefacebook.com
+2a03:2880:f10a:83:face:b00c::25de	attachment.fbsbx.com
+2a03:2880:f10a:83:face:b00c::25de	messenger.com
+2a03:2880:f10a:83:face:b00c::25de	www.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	0-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	1-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	2-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	3-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	4-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	5-edge-chat.messenger.com
+2a03:2880:f10a:83:face:b00c::25de	6-edge-chat.messenger.com
+2a03:2880:f10a:81:face:b00c::e17	snaptu-z.facebook.com
+2a03:2880:f10a:81:face:b00c::e17	snaptu-p1.facebook.com
+2a03:2880:f10a:81:face:b00c::e17	snaptu-p2.facebook.com
+2a03:2880:f00a:5:face:b00c::8e	edge-mqtt.facebook.com
+2a03:2880:f00a:e:face:b00c::3	static.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-lax3-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-lax3-2.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-lax3-3.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-lax3-4.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-hkg3-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-hkg3-2.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	scontent-hkg3-3.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	z-1-scontent.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-lax3-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-lax3-2.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-lax3-3.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-lax3-4.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-mrs1-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-mrs1-2.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-mrs1-3.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-mrs1-4.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-hkg3-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	video-sit4-1.xx.fbcdn.net
+2a03:2880:f00a:e:face:b00c::3	external.xx.fbcdn.net
+2a03:2880:f00a:13:face:b00c::1823	video.xx.fbcdn.net
+# Facebook End
+
+# Gmail Start
+2a00:1450:4011:804::1016	gmail.com
+2a00:1450:4011:805::1016	www.gmail.com
+2a00:1450:4011:805::1016	googlemail.l.google.com
+2a00:1450:4011:804::101d	mail-settings.google.com
+2a00:1450:4011:804::1015	m.gmail.com
+2a00:1450:4011:805::1015	m.googlemail.com
+2a00:1450:4010:c0e::64	gmail.google.com
+2a00:1450:4010:c0b::64	mail.google.com
+2a00:1450:4011:808::1015	inbox.google.com
+2a00:1450:4011:805::101d	chatenabled.mail.google.com
+2a00:1450:4011:808::101d	filetransferenabled.mail.google.com
+2a00:1450:4011:809::101d	isolated.mail.google.com
+# Gmail End
+
+# Google Apis Start
+2a00:1450:4010:c01::5f	www.googleapis.com
+2a00:1450:4010:c02::5f	ajax.googleapis.com
+2a00:1450:4010:c03::5f	fonts.googleapis.com
+2a00:1450:4010:c05::5f	googleapis.com
+2a00:1450:4010:c05::5f	android.googleapis.com
+2a00:1450:4010:c05::5f	appinvite-pa.googleapis.com
+2a00:1450:4010:c05::5f	appinvite-ipv4-pa.googleapis.com
+2a00:1450:4010:c05::5f	redirector-bigcache.googleapis.com
+2a00:1450:4010:c05::5f	bigcache.googleapis.com
+2a00:1450:4010:c05::5f	ct.googleapis.com
+2a00:1450:4010:c05::5f	chart.googleapis.com
+2a00:1450:4010:c05::5f	chart.apis.google.com
+2a00:1450:4010:c05::5f	content.googleapis.com
+2a00:1450:4010:c05::5f	datasaver.googleapis.com
+2a00:1450:4010:c05::5f	device-provisioning.googleapis.com
+2a00:1450:4010:c05::5f	youtube.googleapis.com
+2a00:1450:4010:c05::5f	youtubei.googleapis.com
+2a00:1450:4010:c05::5f	appengine.clients6.google.com
+2a00:1450:4010:c05::5f	bigtableadmin.clients6.google.com
+2a00:1450:4010:c05::5f	clouddebugger.clients6.google.com
+2a00:1450:4010:c05::5f	cloudconfig.clients6.google.com
+2a00:1450:4010:c05::5f	cloudpersonalization-pa.clients6.google.com
+2a00:1450:4010:c05::5f	cloudsupport.clients6.google.com
+2a00:1450:4010:c05::5f	cloudusersettings-pa.clients6.google.com
+2a00:1450:4010:c05::5f	dataflow.clients6.google.com
+2a00:1450:4010:c05::5f	datahub.clients6.google.com
+2a00:1450:4010:c05::5f	firebasestorage.googleapis.com
+2a00:1450:4010:c05::5f	firebasedurablelinks-pa.clients6.google.com
+2a00:1450:4010:c05::5f	firebaserules.clients6.google.com
+2a00:1450:4010:c05::5f	firebasestorage.clients6.google.com
+2a00:1450:4010:c05::5f	gcmcontextualcampaign-pa.clients6.google.com
+2a00:1450:4010:c05::5f	growth-pa.googleapis.com
+2a00:1450:4010:c05::5f	instantmessaging-pa.googleapis.com
+2a00:1450:4010:c05::5f	khms0.googleapis.com
+2a00:1450:4010:c05::5f	khms1.googleapis.com
+2a00:1450:4010:c05::5f	logging.clients6.google.com
+2a00:1450:4010:c05::5f	maps.googleapis.com
+2a00:1450:4010:c05::5f	memcache.clients6.google.com
+2a00:1450:4010:c05::5f	ml.clients6.google.com
+2a00:1450:4010:c05::5f	mts0.googleapis.com
+2a00:1450:4010:c05::5f	mts1.googleapis.com
+2a00:1450:4010:c05::5f	mts2.googleapis.com
+2a00:1450:4010:c05::5f	mts3.googleapis.com
+2a00:1450:4010:c05::5f	mobilecrashreporting.clients6.google.com
+2a00:1450:4010:c05::5f	mobilesdk-pa.clients6.google.com
+2a00:1450:4010:c05::5f	opensourceprojects-pa.googleapis.com
+2a00:1450:4010:c05::5f	photos.googleapis.com
+2a00:1450:4010:c05::5f	plus.googleapis.com
+2a00:1450:4010:c05::5f	reminders-pa.clients6.google.com
+2a00:1450:4010:c05::5f	securetoken.googleapis.com
+2a00:1450:4010:c05::5f	remoting-pa.googleapis.com
+2a00:1450:4010:c05::5f	personalsafety-pa.googleapis.com
+2a00:1450:4010:c05::5f	clientmetrics-pa.googleapis.com
+2a00:1450:4010:c05::5f	music-pa.clients6.google.com
+2a00:1450:4010:c06::5f	31061001.googleapis.com
+2a00:1450:4010:c06::5f	26644787.googleapis.com
+# Google Apis End
+
+# Modified Hosts End
