@@ -50,7 +50,7 @@
 - ### 科学上网自建教程
 	#### 1. 以下为自己搭建SS/SSR或v2ray服务器教程（以下两个Github项目操作均适合新手）：
 
-	##### [自建ss/ssr服务器教程](https://github.com/ShadowsocksR-Live/shadowsocksr-native)
+	##### [自建ss/ssr服务器教程](https://github.com/ShadowsocksR-Live/shadowsocksr-native)    [补充Windows搭建ssr](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray/wiki/Windows-%E6%90%AD%E5%BB%BAssr)
 
 	##### [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
 
