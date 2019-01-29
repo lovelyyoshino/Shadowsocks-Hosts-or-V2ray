@@ -72,6 +72,10 @@
 	![](https://i.imgur.com/YmMxmKn.png)
 	*virmach适合那些想要买个稳定、靠谱的小型便宜VPS做个代理，不想花太多钱，并且希望有比较多可选择的机房*
 	
+	##### [aws](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-southeast-1.console.aws.amazon.com%2Fec2%2Fv2%2Fhome%3Fregion%3Dap-southeast-1%26state%3DhashArgs%2523Instances%253Asort%253DinstanceId%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fec2&forceMobileApp=0)
+	![](https://i.imgur.com/OF3z8rJ.png)
+	*AWS的，只要有个信用卡可以免费试用一年 *
+	
 	#### 3. SSR客户端下载：
 	##### 第一次电脑系统使用SSR/SS客户端时，如果提示你需要安装NET Framework 4.0，有的电脑系统可能会自带NET Framework 4.0。如果不存在NET Framework 4.0环境，建议百度安装相关环境，或者通过[3DMGAME](http://dl.3dmgame.com/201211/28051.html)运行库合集安装包进行一键配置环境
 	![](https://i.imgur.com/OFdtp1A.png)
