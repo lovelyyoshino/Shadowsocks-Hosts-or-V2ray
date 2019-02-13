@@ -74,6 +74,7 @@
 	
 	##### [aws](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-southeast-1.console.aws.amazon.com%2Fec2%2Fv2%2Fhome%3Fregion%3Dap-southeast-1%26state%3DhashArgs%2523Instances%253Asort%253DinstanceId%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fec2&forceMobileApp=0)
 	![](https://i.imgur.com/OF3z8rJ.png)
+	
 	*AWS的，只要有个信用卡可以免费试用一年*
 	
 	#### 3. SSR客户端下载：
