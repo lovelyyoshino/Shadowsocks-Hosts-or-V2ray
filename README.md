@@ -54,7 +54,7 @@
 
 	##### [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
 
-	#### 2. VPS推荐：
+	#### 2.1. VPS推荐（国外）：
 
 	##### [Vultr](https://www.vultr.com/) 	
 	![](https://i.imgur.com/RLLJ9M0.jpg)
@@ -71,10 +71,14 @@
 	##### [virmach](https://billing.virmach.com/cart.php)
 	![](https://i.imgur.com/YmMxmKn.png)
 	*virmach适合那些想要买个稳定、靠谱的小型便宜VPS做个代理，不想花太多钱，并且希望有比较多可选择的机房*
+        
+        #### 2.2. VPS推荐(国内)：
+        ##### [ssmiao](http://miaoaff.com/reg.php?id=7585845)
+	![](https://imgur.com/35RbH38)
+	*ssmiao较为便宜,使用方便*
 	
 	##### [aws](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-southeast-1.console.aws.amazon.com%2Fec2%2Fv2%2Fhome%3Fregion%3Dap-southeast-1%26state%3DhashArgs%2523Instances%253Asort%253DinstanceId%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fec2&forceMobileApp=0)
 	![](https://i.imgur.com/OF3z8rJ.png)
-	
 	*AWS的，只要有个信用卡可以免费试用一年*
 	
 	#### 3. SSR客户端下载：
