@@ -97,7 +97,7 @@
 
   ##### [ssmiao](http://miaoaff.com/reg.php?id=7585845)
 
-  ![](https://imgur.com/35RbH38)
+  ![](https://i.imgur.com/VCq5e1E.png)
   *ssmiao较为便宜,使用方便*	
 
   #### 3. SSR客户端下载：
