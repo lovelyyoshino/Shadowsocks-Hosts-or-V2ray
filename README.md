@@ -95,7 +95,7 @@
 
   #### 2.2. VPS推荐(国内)：
 
-  ##### [ssmiao](http://miaoaff.com/reg.php?id=7585845)
+  ##### [ssmiao](http://miaoaff.com/reg.php?id=)
 
   ![](https://i.imgur.com/VCq5e1E.png)
   *ssmiao较为便宜,使用方便*	
