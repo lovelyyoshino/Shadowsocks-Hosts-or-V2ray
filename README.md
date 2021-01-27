@@ -135,6 +135,7 @@
   ###### **[max2max](https://github.com/VonSdite/Auto_Shadowsocks) 自建**
 
   ###### **[NoBey](https://github.com/NoBey/Shadowsocks-free) 自建**
+  
 
   #### 2. 其他网站上面存在的Shadowsocks账号
 
@@ -155,6 +156,45 @@
   ###### **[ssr订阅链接](https://raw.githubusercontent.com/max2max/freess/master/freenode.txt)**
 
   ###### **[SSCAP/SSTAP小工具获取ssr](https://www.ssrtool.com/tool/free_ssr)**
+  
+  #### 3. 一些SSR机场
+  
+  ###### **[geckoiplc](https://geckoiplc.com/login): 丐版SSR，平均一个月15元150G（由于没有邀请机制，较为不安全）。支付方式：支付宝+微信**
+  
+  ###### **[ssrcloud](https://ntt-co-jp.club/) [telegram](https://t.me/ssrcloud): 丐版SSR，运营了大概2年多，挺过了2020年，平均一个月15元150G。支付方式：支付宝+微信**
+  
+  ###### **[Nexitally](https://nexitally.com/) [telegram](https://t.me/nexitallyusers): 约88元/月，属于高端机场，同时提供Glowow加速器月卡为30元。支付方式：支付宝+微信**
+  
+  ###### **[AmyTelecom](https://www.amysecure.com/index.php): 27元/月，每月40G流量，速度和稳定性不错。支付方式：支付宝+微信**
+  
+  ###### **[魅影极速](https://docs.maying.co/) [telegram](https://t.me/myjstw): VIP3，季付180元；年付600元；每月400G流量；节点40左右，稳定性不错。支付方式：支付宝+微信**
+  
+  ###### **[ARK](https://ark.to/):  A1季度订阅：150元，90天，每月200G流量。支付方式：卡密充值（支付宝+微信+网银）**  
+  
+  ###### **[Boslife (原abclite)](https://bgpnet.cc/):229元/年，每月20G流量。支付方式：信用卡+支付宝+微信**  
+  
+  ###### **[FastNode](https://fastnode.info/auth/register): 标准版：139元/半年，239元/年，每月100G流量；限制3个在线客户端。支付方式：支付宝**  
+  
+  ###### **[海豚湾](https://cdn77.manage.hitun.io/): 29元/月，250G流量；300元/年，3000G流量；同时在线设备4台，主要是直连节点，和部分BGP和部分限速专线。支付方式：支付宝+微信**  
+  
+  ###### **[STC-Spades](https://mqk4azjxg8skg6gfelpb.stc-cloudserver.com/auth/register): 基础套餐：38元/月，月100G；108元/季，月200G，客户端2个；385元/年，月500G，客户端3个。支付方式：支付宝+微信**  
+    
+  ###### **[次元链接](https://cylink.store/auth/register): 入门套餐：18.8元/月，每月128G流量；52元/季，192元/年；限速200M，仅限购买者本人使用。支付方式：支付宝+微信** 
+    
+  ###### **[Blinkload](https://www.duyaoss.com/archives/3/): Micro套餐：每月50G流量，39.9元/月，79.9元/季，159.9元/半年，299.9元/年，限制设备3个。支付方式：支付宝+微信** 
+      
+  ###### **[N3RO](https://n3ro.lol/auth/register): 小包：20元/月，27G流量；59元/季，81G流量；限速100M。支付方式：支付宝+微信** 
+      
+  ###### **[忍者云](https://renzhe.cloud/auth/register): 是家老站,下忍套餐：5元/月，60元/年，每月50G流量，限制2设备，30+节点。支付方式：支付宝+微信** 
+      
+  ###### **[少数派](https://ssplive.pw/auth/register): 个人版：22.8元/月，65.8元/季，228.8元/年，每月300G流量；限制3个客户端在线；。支付方式：支付宝+微信** 
+        
+  ###### **[云翼网络](https://www.cloud-wing.net/auth/register): 标准会员：15元/月，45元/季，180元/年，每月100G流量，4个在线客户端。支付方式：支付宝+微信** 
+        
+  ###### **[BoomCloud](https://www.boomssl.com/): Silver套餐，158元/半年，298元/年；每月60G流量。支付方式：支付宝+微信** 
+        
+  ###### **[翼游](https://yiyo.mobi/auth/register/): VIP1：5元/月，60G流量；2个在线客户端。支付方式：支付宝+微信** 
+  
 
 #### tip 谷歌镜像网址适合使用google进行简单的搜索、查阅资料。
 
