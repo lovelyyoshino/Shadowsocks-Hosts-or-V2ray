@@ -19,3 +19,6 @@
 ## ![](https://i.imgur.com/upTVEr3.gif)
 
 ## 该项目已全面移到[WIKI](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray/wiki)中,以后README中不再更新。
+
+###### 最新更新：2021.2.26
+###### 更新内容：github上的代理池
